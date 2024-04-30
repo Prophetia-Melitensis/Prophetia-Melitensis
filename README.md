@@ -6,7 +6,7 @@ Hi there! I am @Prophetia-Melitensis and I am a developer based in Europe. I fou
 - CSS
 - Python
 # 🌱 My Projects
-- A central page where you can access all my projects
+- A page where you can access my GitHub profile (soon to be upgraded)
 - An ultime guide to Malta
 - More is coming!
 # 📫 How to reach me

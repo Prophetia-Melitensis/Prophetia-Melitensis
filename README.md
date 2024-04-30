@@ -15,3 +15,4 @@ You can either contact me by email, phone (WhatsApp), or you can travel to my cu
 You will <ins>**never**</ins> be able to reach me! 🤣
 # Github Stats - Hopefully it will improve!
 ![Prophetia-Melitensis Stats](https://github-readme-stats.vercel.app/api?username=prophetia-melitensis&show_icons=true&theme=transparent)
+![Prophetia-Melitensis Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prophetia-melitensis&show_icons=true)
